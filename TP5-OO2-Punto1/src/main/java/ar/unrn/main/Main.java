@@ -2,7 +2,7 @@ package ar.unrn.main;
 
 import ar.unrn.domain.model.AdapterMotor;
 import ar.unrn.domain.model.ElectricoMotor;
-import ar.unrn.domain.portsin.Motor;
+import ar.unrn.domain.model.Motor;
 
 public class Main {
 

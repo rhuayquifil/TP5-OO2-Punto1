@@ -1,7 +1,5 @@
 package ar.unrn.domain.model;
 
-import ar.unrn.domain.portsin.Motor;
-
 public class AdapterMotor implements Motor {
 
 	private ElectricoMotor motorElectrico;
